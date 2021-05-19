@@ -9,7 +9,7 @@ Curso: Sistemas dinámicos-Biología EAFIT
 
 ## Contenidos:
 
-1. [Método numéricos](https://alexacl95.github.io/SistemasDinamicos/HTML/MetodosNumericos.html)
+1. [Métodos numéricos](https://alexacl95.github.io/SistemasDinamicos/HTML/MetodosNumericos.html)
    
     - Método de Euler
     - Función *ode45*
@@ -58,7 +58,5 @@ Curso: Sistemas dinámicos-Biología EAFIT
 
     - Competencia interespecífica de 2 especies
     - Competencia por parches de 2 especies  
-    - Lotka-Volterra de competición con capacidad de carga
-    - SIR con mortalidad
-
+    - Lotka-Volterra de depredación con capacidad de carga
    
