@@ -1,4 +1,3 @@
-# Sistemás dinámicos para biología: Matlab & Simulink
 Docente: Alexandra Catano-Lopez
 Curso: Sistemas dinámicos-Biología EAFIT
 
