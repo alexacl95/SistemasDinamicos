@@ -50,13 +50,15 @@ Curso: Sistemas dinámicos-Biología EAFIT
 7. [Estimación de parámetros e intervalos de confianza](https://alexacl95.github.io/SistemasDinamicos/HTML/Estimacion.html)
 
     - Estimación de parámetros multi/mono objetivo
-    - Estimación de intervalos de confianza  
+    - Estimación de intervalos de confianza
     - Análisis de identificabilidad práctica
     - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/UASAPE)
 
 8. [Otros modelos](https://github.com/alexacl95/SistemasDinamicos/tree/master/OtrosModelos)
 
     - Competencia interespecífica de 2 especies
-    - Competencia por parches de 2 especies  
+    - Competencia por parches de 2 especies
     - Lotka-Volterra de depredación con capacidad de carga
+
+https://img.shields.io/github/watchers/alexacl95/SistemasDinamicos?style=social
    
