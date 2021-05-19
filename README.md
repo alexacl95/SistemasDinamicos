@@ -14,25 +14,25 @@ Curso: Sistemas dinámicos-Biología EAFIT
     - Método de Euler
     - Función *ode45*
     - Ejemplos para modelo SIR clásico y Lotka-Volterra
-    - Archivos [aquí](MetodosNumericos/)
+    - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/MetodosNumericos)
 
 2. [Retratos de fase](https://alexacl95.github.io/SistemasDinamicos/HTML/RetratosDeFase.html)
 
     - Retratos de fase para modelos con 2 estados
     - Visualización de puntos de equilibrio
     - Simulación de trayectorias de estado
-- Archivos [aquí](RetratoDeFase/)
+    - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/RetratoDeFase)
 
 3. [Simulación de sistemas dinámicos](https://alexacl95.github.io/SistemasDinamicos/HTML/SiumlacionConSimulink.html)
    
     - Diagramas de bloques con Simulink
     - Simulación con diferentes entradas
-    - Archivos [aquí](SimulacionCurvaLinealidad/)
+    - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/SimulacionCurvaLinealidad)
 
 4. [Curva de linealidad](https://alexacl95.github.io/SistemasDinamicos/HTML/CurvaLinealidad.html)
    
     - Curva de linealidad con diferentes entradas para el modelo
-    - Archivos [aquí](SimulacionCurvaLinealidad/)
+    - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/SimulacionCurvaLinealidad)
 
 5. [Linealización y control](https://alexacl95.github.io/SistemasDinamicos/HTML/LinealizacionControl.html)
    
@@ -45,16 +45,16 @@ Curso: Sistemas dinámicos-Biología EAFIT
 
     - Análisis de sensibilidad global general y vectorial
     - Análisis de incertidumbre
-    - Archivos [aquí](UASAPE/)
+    - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/UASAPE)
 
 7. [Estimación de parámetros e intervalos de confianza](https://alexacl95.github.io/SistemasDinamicos/HTML/Estimacion.html)
 
     - Estimación de parámetros multi/mono objetivo
     - Estimación de intervalos de confianza  
     - Análisis de identificabilidad práctica
-    - Archivos [aquí](UASAPE/)
+    - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/UASAPE)
 
-8. [Otros modelos](OtrosModelos/)
+8. [Otros modelos](https://github.com/alexacl95/SistemasDinamicos/tree/master/OtrosModelos)
 
     - Competencia interespecífica de 2 especies
     - Competencia por parches de 2 especies  
