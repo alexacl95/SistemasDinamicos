@@ -3,6 +3,8 @@ Docente: Alexandra Catano-Lopez
 
 Curso: Sistemas dinámicos-Biología EAFIT
 
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/alexacl95/SistemasDinamicos?style=social">
+
 - El ejemplo del curso es el modelo de [Lotka-Volterra](https://web.ma.utexas.edu/users/davis/375/popecol/lec10/lotka.html) de depredación, todos los códigos y aplicativos giraran en torno a dicho modelo. Aunque se pueden encontrar otros ejemplos de modelos en la carpeta de [OtrosModelos](OtrosModelos/).
 - Las últimas dos unidades de contenidos se trabajarán con el *GSUA_CSB Toolbox* disponible en [Mathworks](https://www.mathworks.com/matlabcentral/fileexchange/72637-gsua-csb)
 
@@ -59,6 +61,3 @@ Curso: Sistemas dinámicos-Biología EAFIT
     - Competencia interespecífica de 2 especies
     - Competencia por parches de 2 especies
     - Lotka-Volterra de depredación con capacidad de carga
-
-https://img.shields.io/github/watchers/alexacl95/SistemasDinamicos?style=social
-   
