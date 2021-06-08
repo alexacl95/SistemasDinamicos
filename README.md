@@ -41,7 +41,7 @@ Curso: Sistemas dinámicos-Biología EAFIT
     - Linealización de un modelo con entrada
     - Estabilidad de puntos de equilibrio en modelo lineal
     - Control lineal con entradas de referencia
-    - Archivos [aquí](LinealizacionControl/)
+    - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/LinealizacionControl)
 
 6. [Análisis de sensibilidad e incertidumbre](https://alexacl95.github.io/SistemasDinamicos/HTML/SAUA.html)
 
