@@ -23,7 +23,7 @@ Curso: Sistemas dinámicos-Biología EAFIT
     - Retratos de fase para modelos con 2 y 3 estados
     - Visualización de puntos de equilibrio
     - Simulación de trayectorias de estado
-    - Explicación paso a paso de la función *PhasePortrait.m* de [utilizada en el curso](https://alexacl95.github.io/SistemasDinamicos/HTML/RetratosDeFasePasoaPaso.html)
+    - Explicación paso a paso de la función [PhasePortrait.m](https://alexacl95.github.io/SistemasDinamicos/HTML/RetratosDeFasePasoaPaso.html)
     - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/RetratoDeFase)
 
 3. [Simulación de sistemas dinámicos](https://alexacl95.github.io/SistemasDinamicos/HTML/SiumlacionConSimulink.html)
