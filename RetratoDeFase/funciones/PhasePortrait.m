@@ -30,7 +30,7 @@ function PhasePortrait(f, Dimension, X, Resolution, IC, ShowTraj)
                 [~, ysim] = ode45(@(t,Y) f(t,Y), ydom, [X10, X20]);
                 plot(ysim(:, 1), ysim(:, 2), 'b', 'LineWidth', 2)                   %Trayectoria de estado
                 plot(ysim(1, 1), ysim(1, 2),'o', 'color', 'g', 'LineWidth',2)       %Punto inicial
-                plot(ysim(end, 1), ysim(end, 2),'s', 'color', 'k', 'LineWidth',2)   %Punto final
+                plot(ysim(end, 1), ysim(end, 2),'s', 'color', 'r', 'LineWidth',2)   %Punto final
 
             end
 
@@ -79,7 +79,7 @@ function PhasePortrait(f, Dimension, X, Resolution, IC, ShowTraj)
                 [~, ysim] = ode45(@(t,Y) f(t,Y), ydom, [X10, X20, X30]);
                 plot3(ysim(:, 1), ysim(:, 2), ysim(:, 3), 'b', 'LineWidth', 2)                      %Trayectoria de estado
                 plot3(ysim(1, 1), ysim(1, 2), ysim(1, 3),'o', 'color', 'g', 'LineWidth',2)          %Punto inicial
-                plot3(ysim(end, 1), ysim(end, 2), ysim(end, 3), 's', 'color', 'k', 'LineWidth',2)   %Punto final
+                plot3(ysim(end, 1), ysim(end, 2), ysim(end, 3), 's', 'color', 'r', 'LineWidth',2)   %Punto final
 
             end
 
