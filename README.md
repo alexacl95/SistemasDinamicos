@@ -49,6 +49,7 @@ Curso: Sistemas dinámicos-Biología EAFIT
     - Análisis de sensibilidad global general y vectorial
     - Análisis de incertidumbre
     - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/UASAPE)
+    - Toolbox GSUA_CSB [aquí](https://www.mathworks.com/matlabcentral/fileexchange/72637-gsua-csb)
 
 7. [Estimación de parámetros e intervalos de confianza](https://alexacl95.github.io/SistemasDinamicos/HTML/Estimacion.html)
 
@@ -56,6 +57,7 @@ Curso: Sistemas dinámicos-Biología EAFIT
     - Estimación de intervalos de confianza
     - Análisis de identificabilidad práctica
     - Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/UASAPE)
+    - Toolbox GSUA_CSB [aquí](https://www.mathworks.com/matlabcentral/fileexchange/72637-gsua-csb)
 
 8. [Otros modelos](https://github.com/alexacl95/SistemasDinamicos/tree/master/OtrosModelos)
 
