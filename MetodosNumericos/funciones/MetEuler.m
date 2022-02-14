@@ -1,7 +1,7 @@
 function y= MetEuler(F,condInit,time,h)
 
 Tsize=time/h;
-x = linspace(0,time,Tsize);
+x = h:h:time;
 y = zeros(length(condInit),Tsize);
 y(:,1) = condInit;
 
