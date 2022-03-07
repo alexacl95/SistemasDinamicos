@@ -28,7 +28,7 @@ function PhasePortrait(f, Dimension, X, Resolution, IC, ShowTraj)
             for X20 = IC{2}         %multiples condiciones iniciales para los depredadores
 
                 [~, ysim] = ode45(@(t,Y) f(t,Y), ydom, [X10, X20]);
-                plot(ysim(:, 1), ysim(:, 2), 'b', 'LineWidth', 2)                   %Trayectoria de estado
+                plot(ysim(:, 1), ysim(:, 2), '--b', 'LineWidth', 2)                 %Trayectoria de estado
                 plot(ysim(1, 1), ysim(1, 2),'o', 'color', 'g', 'LineWidth',2)       %Punto inicial
                 plot(ysim(end, 1), ysim(end, 2),'s', 'color', 'r', 'LineWidth',2)   %Punto final
 
@@ -47,9 +47,9 @@ function PhasePortrait(f, Dimension, X, Resolution, IC, ShowTraj)
                     figure
                    
                     [tsim,ysim] = ode45(@(t,Y) f(t,Y), ydom, [X10, X20]);
-                    plot(tsim, ysim(:, 1), 'b', 'LineWidth', 2)
+                    plot(tsim, ysim(:, 1), '-.b', 'LineWidth', 2)
                     hold on
-                    plot(tsim, ysim(:, 2), 'k', 'LineWidth', 2)  
+                    plot(tsim, ysim(:, 2), '-.k', 'LineWidth', 2)  
 
                     xlabel('Time')
                     ylabel('Outputs')
@@ -77,7 +77,7 @@ function PhasePortrait(f, Dimension, X, Resolution, IC, ShowTraj)
             for X30 = IC{3}         %multiples condiciones iniciales para los depredadores
 
                 [~, ysim] = ode45(@(t,Y) f(t,Y), ydom, [X10, X20, X30]);
-                plot3(ysim(:, 1), ysim(:, 2), ysim(:, 3), 'b', 'LineWidth', 2)                      %Trayectoria de estado
+                plot3(ysim(:, 1), ysim(:, 2), ysim(:, 3), '--b', 'LineWidth', 2)                      %Trayectoria de estado
                 plot3(ysim(1, 1), ysim(1, 2), ysim(1, 3),'o', 'color', 'g', 'LineWidth',2)          %Punto inicial
                 plot3(ysim(end, 1), ysim(end, 2), ysim(end, 3), 's', 'color', 'r', 'LineWidth',2)   %Punto final
 
@@ -100,10 +100,10 @@ function PhasePortrait(f, Dimension, X, Resolution, IC, ShowTraj)
                     figure
                    
                     [tsim,ysim] = ode45(@(t,Y) f(t,Y), ydom, [X10, X20, X30]);
-                    plot(tsim, ysim(:, 1), 'b', 'LineWidth', 2)
+                    plot(tsim, ysim(:, 1), '-.b', 'LineWidth', 2)
                     hold on
-                    plot(tsim, ysim(:, 2), 'k', 'LineWidth', 2) 
-                    plot(tsim, ysim(:, 3), 'r', 'LineWidth', 2)
+                    plot(tsim, ysim(:, 2), '-.k', 'LineWidth', 2) 
+                    plot(tsim, ysim(:, 3), '-.r', 'LineWidth', 2)
 
                     xlabel('Time')
                     ylabel('Outputs')
