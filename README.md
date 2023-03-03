@@ -28,8 +28,8 @@ Curso: Sistemas dinámicos-Biología EAFIT
     - Visualización de puntos de equilibrio
     - Simulación de trayectorias de estado
     - [Forma alternativa](https://alexacl95.github.io/SistemasDinamicos/HTML/RetratosDeFase.html) de visualizar retratos de fase para modelos con 2 y 3 estados en Matlab:
-	- Explicación paso a paso de la función [PhasePortrait.m](https://alexacl95.github.io/SistemasDinamicos/HTML/RetratosDeFasePasoaPaso.html)
-	- Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/RetratoDeFase))
+	    - Explicación paso a paso de la función [PhasePortrait.m](https://alexacl95.github.io/SistemasDinamicos/HTML/RetratosDeFasePasoaPaso.html)
+    	- Archivos [aquí](https://github.com/alexacl95/SistemasDinamicos/tree/master/RetratoDeFase)
     
 
 4. [Simulación de sistemas dinámicos](https://alexacl95.github.io/SistemasDinamicos/HTML/SiumlacionConSimulink.html)
