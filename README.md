@@ -3,7 +3,7 @@ Docente: Alexandra Catano-Lopez
 
 Curso: Sistemas dinámicos-Biología EAFIT
 
-![visitors](https://page-views.glitch.me/badge?page_id=alexacl95/SistemasDinamicos)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Falexacl95.github.io%2FSistemasDinamicos%2F&label=Visitas&labelColor=%23697689&countColor=%23d9e3f0)
 
 - El ejemplo del curso es el modelo de [Lotka-Volterra](https://web.ma.utexas.edu/users/davis/375/popecol/lec10/lotka.html) de depredación, todos los códigos y aplicativos giraran en torno a dicho modelo. Aunque se pueden encontrar otros ejemplos de modelos en la carpeta de [OtrosModelos](https://github.com/alexacl95/SistemasDinamicos/tree/master/OtrosModelos).
 - Las últimas dos unidades de contenidos se trabajarán con el *GSUA_CSB Toolbox* disponible en [Mathworks](https://www.mathworks.com/matlabcentral/fileexchange/72637-gsua-csb)
